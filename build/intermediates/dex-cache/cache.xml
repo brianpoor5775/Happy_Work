@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/classes-d6b8038033a4145464642ab9476bc00d8e5fa4cd.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-96a5dbc77f7fb4da22b393dd373432219c80a28e.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-9e89704cbd4584f56ec462dcf42b8c3973d863c2.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/parse-android-1.13.0-0ad42acd64e191374600787774068b5b315241cf.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-250f7a1ad4b4eb20841a5dd96eabdb938bbdf175.jar" />
+    </item>
+    <item
+        jar="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Brian/AndroidStudioProjects/Parse-Starter-Project-1.13.0/Hells Work/build/intermediates/pre-dexed/debug/classes-998c249c7095b6e8f7a2368f202a28bc96efafd8.jar" />
+    </item>
+
+</items>
